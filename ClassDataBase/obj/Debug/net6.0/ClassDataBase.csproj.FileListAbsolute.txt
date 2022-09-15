@@ -1,0 +1,12 @@
+D:\Study\TelegramBot\ClassDataBase\bin\Debug\net6.0\ClassDataBase.deps.json
+D:\Study\TelegramBot\ClassDataBase\bin\Debug\net6.0\ClassDataBase.dll
+D:\Study\TelegramBot\ClassDataBase\bin\Debug\net6.0\ref\ClassDataBase.dll
+D:\Study\TelegramBot\ClassDataBase\bin\Debug\net6.0\ClassDataBase.pdb
+D:\Study\TelegramBot\ClassDataBase\obj\Debug\net6.0\ClassDataBase.csproj.AssemblyReference.cache
+D:\Study\TelegramBot\ClassDataBase\obj\Debug\net6.0\ClassDataBase.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study\TelegramBot\ClassDataBase\obj\Debug\net6.0\ClassDataBase.AssemblyInfoInputs.cache
+D:\Study\TelegramBot\ClassDataBase\obj\Debug\net6.0\ClassDataBase.AssemblyInfo.cs
+D:\Study\TelegramBot\ClassDataBase\obj\Debug\net6.0\ClassDataBase.csproj.CoreCompileInputs.cache
+D:\Study\TelegramBot\ClassDataBase\obj\Debug\net6.0\ClassDataBase.dll
+D:\Study\TelegramBot\ClassDataBase\obj\Debug\net6.0\ref\ClassDataBase.dll
+D:\Study\TelegramBot\ClassDataBase\obj\Debug\net6.0\ClassDataBase.pdb

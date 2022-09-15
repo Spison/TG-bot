@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "3c9fdf89-a632-46c4-9bde-b4c93364bb55": {
+      "ProjectGuid": "3c9fdf89-a632-46c4-9bde-b4c93364bb55",
+      "DisplayName": "TelegramBot",
+      "ColorIndex": 0
+    },
+    "5f5fef4a-6004-4ddc-b5f5-1d8016069ac4": {
+      "ProjectGuid": "5f5fef4a-6004-4ddc-b5f5-1d8016069ac4",
+      "DisplayName": "ClassDataBase",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
